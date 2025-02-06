@@ -1,5 +1,10 @@
 [
   {
+    "country": "America",
+    "area_code": "+1",
+    "emoji": "🇺🇸"
+  },
+  {
     "country": "阿富汗",
     "area_code": "+93",
     "emoji": "🇦🇫"
